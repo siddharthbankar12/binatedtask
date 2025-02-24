@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/binatedtask/static/css/main.6a30d035.css",
-    "main.js": "/github.io/binatedtask/static/js/main.0d90a9c9.js",
-    "static/js/453.3b255866.chunk.js": "/github.io/binatedtask/static/js/453.3b255866.chunk.js",
-    "index.html": "/github.io/binatedtask/index.html",
-    "main.6a30d035.css.map": "/github.io/binatedtask/static/css/main.6a30d035.css.map",
-    "main.0d90a9c9.js.map": "/github.io/binatedtask/static/js/main.0d90a9c9.js.map",
-    "453.3b255866.chunk.js.map": "/github.io/binatedtask/static/js/453.3b255866.chunk.js.map"
+    "main.css": "/binatedtask/static/css/main.6a30d035.css",
+    "main.js": "/binatedtask/static/js/main.f6fac12a.js",
+    "static/js/453.3b255866.chunk.js": "/binatedtask/static/js/453.3b255866.chunk.js",
+    "index.html": "/binatedtask/index.html",
+    "main.6a30d035.css.map": "/binatedtask/static/css/main.6a30d035.css.map",
+    "main.f6fac12a.js.map": "/binatedtask/static/js/main.f6fac12a.js.map",
+    "453.3b255866.chunk.js.map": "/binatedtask/static/js/453.3b255866.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a30d035.css",
-    "static/js/main.0d90a9c9.js"
+    "static/js/main.f6fac12a.js"
   ]
 }
