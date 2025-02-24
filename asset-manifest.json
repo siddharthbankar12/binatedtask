@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/siddharthbankar12/binatedtask/static/css/main.6a30d035.css",
+    "main.js": "/siddharthbankar12/binatedtask/static/js/main.8b8770af.js",
+    "static/js/453.3b255866.chunk.js": "/siddharthbankar12/binatedtask/static/js/453.3b255866.chunk.js",
+    "index.html": "/siddharthbankar12/binatedtask/index.html",
+    "main.6a30d035.css.map": "/siddharthbankar12/binatedtask/static/css/main.6a30d035.css.map",
+    "main.8b8770af.js.map": "/siddharthbankar12/binatedtask/static/js/main.8b8770af.js.map",
+    "453.3b255866.chunk.js.map": "/siddharthbankar12/binatedtask/static/js/453.3b255866.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a30d035.css",
+    "static/js/main.8b8770af.js"
+  ]
+}
